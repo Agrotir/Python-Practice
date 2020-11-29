@@ -4,6 +4,7 @@
 # leading zeros, except in the case of the number '0'.
 
 # Example:
+
 # Input: [2,3,4]
 # Output: [2,3,5]
 
